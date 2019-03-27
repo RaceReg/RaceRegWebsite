@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jackson Porter -- Owner/Operator -- jacksonporterjp
 
 # THANKS
 
-    <name>
+    https://getbootstrap.com/
+    https://html5boilerplate.com/
 
 # TECHNOLOGY COLOPHON
 
     CSS3, HTML5
     Apache Server Configs, jQuery, Modernizr, Normalize.css
+    Bootstrap
